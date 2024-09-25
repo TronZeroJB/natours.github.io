@@ -6,4 +6,4 @@ if you get errors on **npm i**, remove version names from **devDependencies** an
 
 **npm start or npm run devserver**
 
-This website was made while I was finishing the SASS/SCSS course from Jonas Schmedtmann, while I have coded, debugged and made the design credit goes to him.
+This website was made while I was finishing the SASS/SCSS course from Jonas Schmedtmann, while I have coded, debugged and made website, the design credit goes to him.
